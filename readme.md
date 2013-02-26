@@ -4,6 +4,7 @@ Forked from https://github.com/dhgamache/Cinderblock to be a little bit more com
 ## Changes
 - Setup to use the simple tempting language .kit (http://incident57.com/codekit/kit.php)
 - Includes SCSS and a compiled.scss file which is how I like to roll my css
+- Extends scss with Bourbon
 - Formatting changes
 - Including a local copy of jQuery for coding offline
 - Renames app.'s to functions.js, not a big deal, but its a little bit more descriptive, yet generic.
