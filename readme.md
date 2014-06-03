@@ -1,5 +1,9 @@
-# Cinderblock + .kit
+# Cinderblock + SASS
 Forked from https://github.com/dhgamache/Cinderblock to be a little bit more comfortable for my personal needs.
+
+## V3
+- Switched over to a single basic index html page
+- set up for sass and bourbon
 
 ## v2
 - Combined all assets into a single folder ("_")
