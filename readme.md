@@ -4,6 +4,7 @@ Forked from https://github.com/dhgamache/Cinderblock to be a little bit more com
 ## V3
 - Switched over to a single basic index html page
 - set up for sass and bourbon
+- getting jquery from google (might change this back in the future)
 
 ## v2
 - Combined all assets into a single folder ("_")
